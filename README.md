@@ -5,7 +5,7 @@ My name is Apoorva Machale
 
 * 🌍  I'm based in Fullerton, California, US
 * ✉️  If you’re interested in learning more about me or my work, simply reach out at [apoorvaa.machale@gmail.com](mailto:apoorvaa.machale@gmail.com)
-* 🧠  I'm currently learning FastAPI framework
+* 🧠  I'm currently exploring Laravel framework
 * 🤝  I'm open to collaborating on software engineering, web security concepts.
 
 ![](https://komarev.com/ghpvc/?username=apoorvaa-m&color=blue)
