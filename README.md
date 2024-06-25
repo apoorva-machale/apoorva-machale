@@ -2,7 +2,7 @@
 ================================
 ## Software Engineer | Full Stack Developer | Master's in Computer Science at CSUF | Bridging Tech & Trust
 
-Hi! I'm Apoorva Machale, a passionate programmer with a knack for problem-solving and a fascination with the intersection of technology and creating impactful solutions that truly help others. I bring two years of experience in software design and development, with a hunger to learn and contribute to a collaborative, cutting-edge environment.  Fueled by this passion, I've built "Daily Journaling Application" a web app for mood self-monitoring, and strengthen my skills towards Python and FastAPI expertise. Open to brainstorming and exploring how my experience can benefit your work. Connect with me on [LinkedIn](https://www.linkedin.com/in/apoorva-machale/) or drop me an email at apoorvaa.machale@gmail.com
+Hi! I'm Apoorva Machale, a passionate programmer with a knack for problem-solving and a fascination with the intersection of technology and creating impactful solutions that truly help others. I bring two years of experience in software design and development, with a hunger to learn and contribute to a collaborative, cutting-edge environment.  Fueled by this passion, I've built "Daily Journaling Application" a web app for mood self-monitoring, and strengthen my skills towards understanding rest architecture and user interface concepts. Open to brainstorming and exploring how my experience can benefit your work. Connect with me on [LinkedIn](https://www.linkedin.com/in/apoorva-machale/) or drop me an email at apoorvaa.machale@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=apoorvaa-m&color=blue)
 
