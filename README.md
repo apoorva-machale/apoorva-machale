@@ -1,4 +1,4 @@
-### Hi there 👋
+### Apoorva Machale
 ================================
 ## Software Engineer | Full Stack Developer | Master's in Computer Science at CSUF | Bridging Tech & Trust
 
