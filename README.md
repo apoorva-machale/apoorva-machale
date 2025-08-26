@@ -1,6 +1,6 @@
 ### Apoorva Machale
 
-## Software Engineer | Full Stack Developer | Master's in Computer Science at CSUF | Bridging Tech & Trust
+## Software Engineer | AI, Data,Security | Master's in Computer Science at CSUF | Bridging Tech & Trust
 
 Hi! I'm Apoorva Machale, a passionate programmer with a knack for problem-solving and a fascination with the intersection of technology to create impactful solutions that truly help others. I bring two years of experience in software design and development, with a hunger to learn and contribute to a collaborative, cutting-edge environment.  
 The constant drive to stay ahead in the digital world can be demanding. I am immensely interested in the connection between technology and emotional well-being. This realization sparked the idea for "Daily Journaling Application/StressLens" a web application for self-monitoring mood trends to strengthen my skills towards understanding rest architecture and user interface concepts. I found this learning intuitive, as I look forward to help people through technology to make it easier. 
